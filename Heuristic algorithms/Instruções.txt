@@ -1,0 +1,47 @@
+Avaliação 2 - Algoritmos Heurísticos
+
+----------------- Configuração ------------------
+IDE: Visual Studio Code
+Linguagem: Java
+
+------------- Detalhes dos Arquivos -------------
+Segue alguns detalhes sobre o objetivo de alguns arquivos:
+	
+	- Avaliacao_2_Algoritmos_Heuristicos/avaliacao_2.jar: arquivo formato jar (arquivo principal)
+	- Código Fonte/Compilado/Main.java: arquivo em formato java compilado com o código fonte
+	- Código Fonte/RunCodes/Main.java: arquivo para testar no Run.codes (executa apenas o algoritmo VP + 2-OPT)
+
+----------------- Pré-requisitos ----------------
+As seguintes pastas e arquivos são necessárias estarem presentes no mesmo diretório do arquivo avaliacao_2.jar:
+
+	- entradas/	  (pasta com as entradas .tsp)
+	- tabelas/	  (pasta com as tabelas de melhorias)
+	- resultados.txt  (arquivo com as soluções ótimas para comparar as precisões dos algoritmos
+
+Todos os testes presentes no relatório estão contidos na pasta "entradas/"
+Todos os testes deverão estar com a extensão ".tsp"
+Caso queira executar outros testes, inseri-los na pasta "entradas/"
+
+------------- Instruções para jar --------------
+Obs: As instruções, tanto para jar quanto para class, abaixo consideram que o terminal esta acessando o diretório que localiza o arquivo a ser executado
+
+Segue abaixo a linha de comando para executar o arquivo avaliacao_2.jar:
+
+	java -jar avaliacao_2.jar "nome do teste"
+
+Substitua o "nome do teste" (argumento) para o nome do teste (sem a extensão .tsp) presente na pasta "entradas/"
+Exemplo da execução do teste pr1002.tsp:
+
+	java -jar avaliacao_2.jar pr1002
+
+------------- Instruções para class ------------
+Obs: A instrução abaixo é opcional, não é necessário faze-lo para executar o arquivo principal .jar
+
+Caso queira executar a partir do classe Main.class, utilize o comando:
+
+	java Main "nome do teste"
+
+Substitua o "nome do teste" (argumento) para o nome do teste (sem a extensão .tsp) presente na pasta "entradas/"
+Exemplo da execução do teste pr1002.tsp:
+
+	java Main pr1002

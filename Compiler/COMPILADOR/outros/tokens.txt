@@ -1,0 +1,38 @@
+Identificadores:
+    cadeia de string sem ""
+
+Números:
+    cadeia de digitos
+
+Palavras reservadas:
+    se
+    faca
+    fimse
+    senao
+    fimsenao
+    enquanto
+    fimenquanto
+    para
+    fimpara
+
+
+Delimitador e operador:
+    +
+    *
+    /
+    -
+    =
+    <
+    >
+    >=
+    <=
+    &
+    |
+
+Especiais:
+    # (comentário)
+    \n (fim de linha)
+
+    
+Linguagem:
+    PORTUGOL traduzido

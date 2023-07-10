@@ -1,0 +1,3 @@
+Ciclo,Melhoria,Otimizado
+Vizinho Proximo: 332882
+Insercao Rapida: 494162

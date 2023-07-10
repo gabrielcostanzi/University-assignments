@@ -1,0 +1,29 @@
+- Avaliação 3
+
+- Discentes:
+	- RA112649 : Thiago Yuji Yoshimura Yamamoto
+	- RA102573 : Gabriel Henrique Costanzi
+	- RA100285 : Fernando Henrique Kuviatkovski
+
+- Dicas e Observações:
+	- A entrada localiza-se na pasta "entradas"
+	- Clicar no botão de aumentar e diminuir, dos campos do Ponto de Vista, atualiza automaticamente o painel
+	- Segure e clique, no botão de aumentar e diminuir, em algum campo de Ponto de Vista para visualizar as transformações em tempo real
+
+- Passos para execução:
+	- Execute 3DGEN/setup.exe
+	- Clique em Instalar
+	- O painel preto na parte direita representa o viewport, mostrando o resultado final
+	- Clique no botão de lupa, do campo Arquivo De Entrada
+	- Selecione a entrada desejada
+	- Preencha todos os campos (Ponto de Vista e Plano)
+	- Clique em Gerar
+
+- Valores para testar para a entrada piramide.txt:	
+	- Ponto de Vista:
+	X: 20, Y: 10, Z: 30
+
+	- Plano (plano Z):
+	X: 1, Y: 0, Z: 0
+	X: 0, Y: 1, Z: 0
+	X: 0, Y: 0, Z: 0

@@ -1,0 +1,13 @@
+OK Operações matemáticas com INTEIRO
+    - OBS: Exceção de ponto flutuante, divisão entre inteiro retornou um float
+OK Atribuição de CADEIA e printar na tela
+OK Leitura no terminal
+OK Utilizar ENQUANTO
+OK Utilizar PARA
+OK Combinar SE com ENQUANTO E PARA
+
+Lista:
+    chama a lista no ESCREVA
+    muda um elemento da lista
+Atribuição de lista para uma variavel
+Atribuição de uma posição da lista
